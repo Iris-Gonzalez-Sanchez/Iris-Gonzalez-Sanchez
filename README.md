@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iris-Gonzalez-Sanchez
-- 👀 I’m interested in learning languages such as JavaScript and SQL
+- 👀 I’m interested in learning languages such as JavaScript and Python
 - 🌱 I’m currently learning the basics of coding through various phone apps (SoloLearn).
 - 💞️ I’m looking to collaborate on future projects that can aid everyday experiences.
 - 📫 How to reach me at Iris.GonzalezSan@gmail.com
